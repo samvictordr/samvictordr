@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matchaswirls, you can call me Matcha!
+- 👋 Hi, I’m Sam.
 - 👀 I’m interested in pentesting (penentration testing), android modding, everything linux and more!
 - 🌱 I’m currently learning linux server management and security, i have to learn more, the world's a big place.
 
