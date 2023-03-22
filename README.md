@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sam.
-- 👀 I’m interested in pentesting (penentration testing), android modding, everything linux and more!
-- 🌱 I’m currently learning linux server management and security, i have to learn more, the world's a big place.
+- 👀 I’m interested in pentesting, android modding, everything linux and more!
 
 
 <!---
