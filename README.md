@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="pics/header.jpg" alt="Header Image">
-<h1 align="center">Hi 👋, I'm Sam Victor</h1>
+<img object-fit:fill src="pics/header.jpg" alt="Header Image" height="300" width=1000">
+<h1 align="center"></h1>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sam-victor-a52b36279">
