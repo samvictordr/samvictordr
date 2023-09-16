@@ -1,5 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="pics/header.jpg" alt="Header Image">
 <h1 align="center">Hi 👋, I'm Sam Victor</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samvictordr&label=Profile%20views&color=0e75b6&style=flat" alt="samvictordr" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sam-victor-a52b36279">
@@ -8,12 +9,18 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages, Tools and stats:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" />
+</div>
+<h3 align="left">I Have Experience with:</h3>
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="50" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" />
+    
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samvictordr&show_icons=true&locale=en" alt="samvictordr" /></p>
-<h3 align="left">What I'm currently working on:</h3>
-<a href="https://github.com/samvictordr/hashmako-model">Hash-Mako Project(AI/DS Workspace)</a>
   
 
 <!---
