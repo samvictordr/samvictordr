@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img object-fit:fill src="pics/header.jpg" alt="Header Image" height="300" width=1000">
-<h1 align="center"></h1>
+<h2 align="center">Hi, I'm Sam Victor</h2>
 
+<p>I am currently a 1st year at Sri Eshwar College of Engineering, pursuing my Bachelor's Degree in Computer Science. I aspire to be in the DevOps or Data Engineering sector. Growing up, I never really knew what I was good for until my senior years of High School. Turns out, I'm great at orchestrating, optimizing, and sometimes automating small events at shool. Thus began my quest to excel in Development and Operations, aka DevOps.</p>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sam-victor-a52b36279">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,11 +12,11 @@
 
 <h3 align="left">I Have Experience with:</h3>
 <div>
-    <h4 align="left"> DevOps Related Tools:</h4>
+    <h4 align="left"> DevOps/Data Engineering Related Tools Like:</h4>
     <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
     <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <h4 align="left"> Operating Systems:</h4>
+    <h4 align="left"> These Operating Systems:</h4>
     <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img alt="SUSE" src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white"/>
@@ -30,7 +31,7 @@
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 </div>
 
-<h3 align="left">Currently Learning:</h3>
+<h3 align="left">I'm Currently Learning:</h3>
 <div>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
