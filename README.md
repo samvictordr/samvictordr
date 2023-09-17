@@ -2,7 +2,7 @@
 <img object-fit:fill src="pics/header.jpg" alt="Header Image" height="300" width=1000">
 <h2 align="center">Hi, I'm Sam Victor</h2>
 
-<p>I am currently a 1st year at Sri Eshwar College of Engineering, pursuing my Bachelor's Degree in Computer Science. I aspire to be in the DevOps or Data Engineering sector. Growing up, I never really knew what I was good for until my senior years of High School. Turns out, I'm great at orchestrating, optimizing, and sometimes automating small events at shool. Thus began my quest to excel in Development and Operations, aka DevOps.</p>
+<p>I am currently a 1st year at Sri Eshwar College of Engineering, pursuing my Bachelor's Degree in Computer Science. I aspire to be in the DevOps or Data Engineering sector. Growing up, I never really knew what I was good for until my senior years of High School. Turns out, I'm great at orchestrating, optimizing, and sometimes automating events. Thus began my quest to excel in Development and Operations, aka DevOps.</p>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sam-victor-a52b36279">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
