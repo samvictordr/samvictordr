@@ -10,9 +10,9 @@
 <p align="left">
 </p>
 
-<h3 align="left">I've Learnt how to use:</h3>
+<h3 align="left">I've learnt how to use:</h3>
 <div>
-    <h4 align="left"> DevOps/Data Engineering Related Tools Like:</h4>
+    <h4 align="left"> Fundamentals of DevOps/Data Engineering Related Tools Like:</h4>
     <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
     <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
