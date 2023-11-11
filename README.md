@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img object-fit:fill src="pics/header.jpg" alt="Header Image" height="300" width=1000">
 <h2 align="center">Hi, I'm Sam Victor</h2>
 
 <p>I am currently a 1st year at Sri Eshwar College of Engineering, pursuing my Bachelor's Degree in Computer Science. I aspire to be in the DevOps or Data Engineering sector. Growing up, I never really knew what I was good for until my senior years of High School. Turns out, I'm great at orchestrating, optimizing, and automating events, delivering an unforgettable user experience. Thus began my quest to excel in Development and Operations, aka DevOps.</p>
