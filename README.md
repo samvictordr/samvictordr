@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **blockchain-backed payment app**
+ 🔭 I’m currently working on **Python-Based web scrapping project**
  
- 🌱 I’m currently learning **Azure, AWS and Ruby**
+ 🌱 I’m currently learning **DevOps related stuff**
 
  </div>
  
