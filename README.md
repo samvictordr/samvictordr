@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Python-Based web scrapping project**
+ 🔭 I’m currently working on **arch-based Linux distro**
  
  🌱 I’m currently learning **DevOps related stuff**
 
