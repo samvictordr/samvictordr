@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **arch-based Linux distro**
  
- 🌱 I’m currently learning **DevOps related stuff**
+ 🌱 I’m currently learning **DevOps & Site-Reliability Engineering**
 
  </div>
  
