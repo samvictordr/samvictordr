@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=azure,bash,linux,python,c,mysql,kafka,gitlab,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=azure,bash,linux,python,c,mysql,kafka,gitlab,flutter,rust" /><br>
 </div>
 
 <br/>
