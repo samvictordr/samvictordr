@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=azure,bash,linux,python,c,mysql,kafka,gitlab,flutter,rust" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,gitlab,flutter,rust" /> <br>
+    <img src="https://skillicons.dev/icons?i=azure,bash,linux,python,c,mysql,kafka" />
 </div>
 
 <br/>
