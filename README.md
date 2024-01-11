@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **VivyOS, A Arch-Based linux distro**
+ 🔭 I’m currently working on **Fluorite Linux, A Arch-Based linux distro**
  
  <!-- 🌱 I’m currently learning **DevOps & Site-Reliability Engineering** -->
 
