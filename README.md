@@ -11,9 +11,8 @@
 <div align="center">
  
  🔭 I’m currently working on **Fluorite Linux, A Arch-Based linux distro**
- 
- <!-- 🌱 I’m currently learning **DevOps & Site-Reliability Engineering** -->
 
+ 🖥️ Setup: **Arch + Hyprland + Yoru/Illogical_Impulse**
  </div>
  
 <div align="center"> 
