@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Fluorite Linux, A Arch-Based linux distro**
 
- 🖥️ Setup: **Arch + Hyprland + Yoru/Illogical_Impulse**
+ 🖥️ Setup: **Arch + Yoru/GNOME on MacBook Pro 2014**
  </div>
  
 <div align="center"> 
