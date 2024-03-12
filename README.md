@@ -29,8 +29,8 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,gitlab,rust" /> <br>
-    <img src="https://skillicons.dev/icons?i=azure,bash,linux,python,c,mysql,kafka,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=c,mysql,flutter,html,css,rust,python" /> <br>
+    <img src="https://skillicons.dev/icons?i=azure,vscode,github,git,gitlab,bash,linux,kafka,androidstudio" />
 </div>
 
 <br/>
