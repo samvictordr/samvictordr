@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Fluorite Linux, A Arch-Based linux distro**
 
- 🖥️ Setup: **Arch + Hyprland on MacBook Pro 2014**
+ 🖥️ Setup: **Arch + Hyprland**
  </div>
  
 <div align="center"> 
