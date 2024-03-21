@@ -124,7 +124,7 @@ jobs:
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
-      - name: Favorites anime and currently watching
+      - name: Favorite anime and currently watching
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/anilist.svg
