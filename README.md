@@ -37,3 +37,7 @@ I'm Sam Victor, a passionate software developer and administrator. I make random
   <img align="top" width="50%" src="./metrics/anilist.svg" />
 </a>
 
+<a href="https://github.com/samvictordr">
+  <img align="top" width="50%" src="./metrics/characters.svg" />
+</a>
+
