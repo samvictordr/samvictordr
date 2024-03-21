@@ -1,10 +1,13 @@
 name: MetricsRender
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 3 * * *"}]
+  schedule:
+    - cron: "0 3 * * *"
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches: 
+      - main
 
 jobs:
   metrics:
@@ -131,3 +134,13 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
+
+      - name: Favorites characters
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/characters.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
