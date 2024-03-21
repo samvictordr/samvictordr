@@ -135,7 +135,7 @@ jobs:
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
 
-      - name: Favorites characters
+      - name: Favorite characters
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/characters.svg
