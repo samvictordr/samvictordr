@@ -11,24 +11,24 @@ I'm Sam Victor, a passionate software developer and administrator. I make random
   
 <br>
 <a href="https://github.com/Byron">
-  <img align="top" width="50%" src="./.metrics/header.svg" />
+  <img align="top" width="50%" src="./metrics/header.svg" />
 </a>
 <br/>
 <a href="https://github.com/Byron">
-  <img align="top" width="50%" src="./.metrics/repositories.svg" />
+  <img align="top" width="50%" src="./metrics/repositories.svg" />
 </a>
 <a href="https://github.com/Byron">
-  <img align="top" width="49%" src="./.metrics/acti_comm.svg" />
-</a>
-
-<a href="https://github.com/Byron">
-  <img align="top" width="50%" src="./.metrics/iso_calender.svg" />
+  <img align="top" width="49%" src="./metrics/acti_comm.svg" />
 </a>
 
 <a href="https://github.com/Byron">
-    <img align="top" width="49%" src="./.metrics/issue_pr_lang.svg" />
+  <img align="top" width="50%" src="./metrics/iso_calender.svg" />
 </a>
 
 <a href="https://github.com/Byron">
-    <img align="top" width="49%" src="./.metrics/achievements.svg" />
+    <img align="top" width="49%" src="./metrics/issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/Byron">
+    <img align="top" width="49%" src="./metrics/achievements.svg" />
 </a>
