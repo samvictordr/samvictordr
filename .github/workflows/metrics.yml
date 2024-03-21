@@ -124,7 +124,7 @@ jobs:
       - name: Favorites anime and currently watching
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.svg
+          filename: metrics/anilist.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
