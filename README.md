@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="metrics/ryuko.jpg" width="200" height="200">
+</p>
+
 Hi 👋,
 
 I'm Sam Victor, a passionate software developer and administrator. I make random stuff, mostly Linux/Android related. Currently working on Flourite Linux, an Anime Themed Arch Linux distro.
