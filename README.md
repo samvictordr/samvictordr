@@ -34,10 +34,6 @@ I'm Sam Victor, a passionate software developer and administrator. I make random
 </a>
 
 <a href="https://github.com/samvictordr">
-    <img align="top" width="49%" src="./metrics/achievements.svg" />
-</a>
-
-<a href="https://github.com/samvictordr">
   <img align="top" width="50%" src="./metrics/anilist.svg" />
 </a>
 
