@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="metrics/ryuko.jpg" width="200" height="200">
-</p>
+</p>-->
   
 <br>
 <a href="https://github.com/samvictordr">
