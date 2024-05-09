@@ -14,7 +14,7 @@ to address real-world challenges and make a meaningful impact in the field.
 **Sri Eshwar College of Engineering**  
 Coimbatore, Class of 2027  
 Bachelor’s Degree, Computer Science and Engineering  
-Courses: Problem Solving using C, Application Design and Development, Physics for Information Science, Calculus and Linear Algebra, Technical English.
+
 
 **Disha-A Life School**  
 Achipatti, Class of 2023  
