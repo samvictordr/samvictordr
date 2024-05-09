@@ -26,6 +26,8 @@ Courses: Biology, Chemistry, Physics, Mathematics, English.
 - Microsoft Azure AZ-900 Certified (July, 2023)
 - IBM Business Intelligence Specialization (September, 2023)
 - Advanced Diploma in C Programming (October, 2018)
+- Gremlin Certified Chaos Engineering Practioner (April, 2024)
+- Six Sigma White Belt (April, 2024)
 
 ## Academic Highlights
 
@@ -37,15 +39,13 @@ flawless execution of all technical and non-technical aspects, delivering an unf
 
 - Engineered a Shell-based Tor CLI client installer and manager tailored for MacBooks utilizing the ZSH Shell.
 - Contributed to the open-source community with a refined x86_64 rust-based kernel, forked from Philipp Oppermann's Blog_OS.
-- Curated a set of comprehensive protocols to assist Computer Science undergraduates in navigating the complex web of resources, enabling more efficient and 
-effective learning pathways that demonstrate my commitment to peer-to-peer empowerment and educational accessibility.
 
 ## Ongoing Projects
 
-**MesaPay:**  
-MesaPay, a cutting-edge campus payment solution, leverages blockchain for secure transactions and swift refunds. As a Progressive Web App (PWA), it offers 
-seamless mobile transactions and eliminates kiosk reliance. With a user-centric design, MesaPay simplifies the ordering process, while its scalable architecture 
-ensures robust performance during peak times. Stemming from shared dissatisfaction, my leadership emphasized collaboration, resulting in a scalable model of 
-student innovation adaptable to similar environments. MesaPay isn't just a convenience—it's a transformative leap towards seamlessly integrating technology into 
-campus life, enhancing the student experience.
+** Flourite Linux **
+Flourite Linux is a Arch based linux distibution that emphasizes on compatibility and embraces on the modern Japanese culture of Anime and Manga. Flourite boasts features like preinstalled and preconfigured daily software, along with a versatile and fun-to-use Hyprland dotconfig for those with higher end graphics resoruces.
+
+** Wayfarer **
+Wayfarer is a systemic threat detection system that solely depends on Open, publically available information (ATC, Weather Imagery, etc) to detect and notify any possible threats in a particular, monitored vicinity.
+
 
