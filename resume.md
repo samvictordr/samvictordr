@@ -1,4 +1,4 @@
-# SAM VICTOR
+# Sam Victor
 
 Pollachi, Tamil Nadu | samvictordr@outlook.com | +91 7010835183 
 
