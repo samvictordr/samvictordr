@@ -42,10 +42,12 @@ flawless execution of all technical and non-technical aspects, delivering an unf
 
 ## Ongoing Projects
 
-** Flourite Linux **
+**Flourite Linux**
+
 Flourite Linux is a Arch based linux distibution that emphasizes on compatibility and embraces on the modern Japanese culture of Anime and Manga. Flourite boasts features like preinstalled and preconfigured daily software, along with a versatile and fun-to-use Hyprland dotconfig for those with higher end graphics resoruces.
 
-** Wayfarer **
+**Wayfarer**
+
 Wayfarer is a systemic threat detection system that solely depends on Open, publically available information (ATC, Weather Imagery, etc) to detect and notify any possible threats in a particular, monitored vicinity.
 
 
