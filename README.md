@@ -6,9 +6,10 @@
 <a href="https://github.com/samvictordr">
   <img align="top" width="50%" src="./metrics/header.svg" />
 </a>
-<a href="https://github.com/samvictordr">
+<!--Commented out for debugging. API Forbidden 403 error-->
+<!--<a href="https://github.com/samvictordr">
   <img align="top" width="45%" src="./metrics/characters.svg" />
-</a>
+</a>--> 
 <br/>
 <a href="https://github.com/samvictordr">
   <img align="top" width="50%" src="./metrics/repositories.svg" />
