@@ -1,40 +1,27 @@
-<!-- Display the Ryuko image in the center -->
-<p align="center">
-  <img src="metrics/ryuko.jpg" width="300" height="300">
-</p>
-
+<!--<p align="center">
+  <img src="metrics/ryuko.jpg" width="200" height="200">
+</p>-->
+  
 <br>
-
-<!-- Row 1 -->
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/samvictordr">
-    <img width="45%" src="./metrics/header.svg" />
-  </a>
-  <a href="https://github.com/samvictordr">
-    <img width="45%" src="./metrics/characters.svg" />
-  </a>
-</div>
-
+<a href="https://github.com/samvictordr">
+  <img align="top" width="50%" src="./metrics/header.svg" />
+</a>
+<!--Commented out for debugging. API Forbidden 403 error-->
+<a href="https://github.com/samvictordr">
+  <img align="top" width="45%" src="./metrics/characters.svg" />
+</a>
 <br/>
+<a href="https://github.com/samvictordr">
+  <img align="top" width="50%" src="./metrics/repositories.svg" />
+</a>
+<a href="https://github.com/samvictordr">
+  <img align="top" width="49%" src="./metrics/acti_comm.svg" />
+</a>
 
-<!-- Row 2 -->
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/samvictordr">
-    <img width="45%" src="./metrics/repositories.svg" />
-  </a>
-  <a href="https://github.com/samvictordr">
-    <img width="45%" src="./metrics/acti_comm.svg" />
-  </a>
-</div>
+<a href="https://github.com/samvictordr">
+  <img align="top" width="50%" src="./metrics/iso_calender.svg" />
+</a>
 
-<br/>
-
-<!-- Row 3 -->
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/samvictordr">
-    <img width="45%" src="./metrics/iso_calender.svg" />
-  </a>
-  <a href="https://github.com/samvictordr">
-    <img width="45%" src="./metrics/issue_pr_lang.svg" />
-  </a>
-</div>
+<a href="https://github.com/samvictordr">
+    <img align="top" width="49%" src="./metrics/issue_pr_lang.svg" />
+</a>
