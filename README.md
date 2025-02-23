@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="metrics/ryuko.jpg" width="200" height="200">
-</p>
-<h1>
-  Hello, I'm Sam. I like biology and tech.
-</h1>
-<br>
 <a href="https://github.com/samvictordr">
   <img align="top" width="50%" src="./metrics/header.svg" />
 </a>
