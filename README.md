@@ -1,4 +1,4 @@
-<h1>Greetings Visitor :)</h1>
+<h3>Greetings Visitor :)</h3>
 <a href="https://github.com/samvictordr">
   <img align="top" width="50%" src="./metrics/header.svg" />
 </a>
