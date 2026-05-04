@@ -1,3 +1,4 @@
+[![osu! profile](https://osekai.net/profiles/img/banner.svg?id=39318795)](https://osekai.net/profiles?user=39318795)
 <h3>Greetings Visitor :)</h3>
 <a href="https://github.com/samvictordr">
   <img align="top" width="50%" src="./metrics/header.svg" />
