@@ -1,5 +1,5 @@
 <h3>Greetings Visitor :)</h3>
-<i>Listening to: <a href="https://open.spotify.com/track/4K2hrYX8xP5sMGcpfdHj8J?si=6cc1a807630a48bf">Paint it Gold by Glen Check</a></i>
+<i>Listening to: <a href="https://open.spotify.com/track/3VoY2M955hxgj9i6g3e5Yj?si=e30d10f5f77a4120">Neverending Night by Toby Fox</a></i>
 
 <br/><br/>
 
